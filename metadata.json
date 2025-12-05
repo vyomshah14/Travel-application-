@@ -1,0 +1,5 @@
+{
+  "name": "TravelGenie",
+  "description": "AI-powered travel assistant that generates comprehensive city guides, itineraries, and local tips.",
+  "requestFramePermissions": []
+}
